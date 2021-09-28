@@ -1,0 +1,11 @@
+{
+    "name": "marcelo/enviar-email",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
